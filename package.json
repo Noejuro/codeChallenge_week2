@@ -1,0 +1,17 @@
+{
+  "name": "week2_code2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Noe Juarez",
+  "license": "ISC",
+  "type": "type",
+  "dependencies": {
+    "@types/jasmine": "^4.0.3",
+    "@types/node": "^17.0.36",
+    "jasmine": "^4.1.0"
+  }
+}
